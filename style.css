@@ -1,0 +1,21 @@
+canvas {
+  border: 1px solid grey;
+}
+body {
+  text-align: center;
+  background-color: rgb(236, 212, 212);
+  border-radius: 15px;
+  height: 10px;
+  margin: 25px auto;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+dv {
+  border-image: 200px;
+}
+
+img {
+  max-width: 40%;
+  max-height: 40%;
+}
